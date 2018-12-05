@@ -1,0 +1,22 @@
+{
+  "name": "noform-verify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoBey/NoForm-Verify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoBey/NoForm-Verify/issues"
+  },
+  "homepage": "https://github.com/NoBey/NoForm-Verify#readme",
+  "devDependencies": {
+    "ava": "1.0.0-rc.2"
+  }
+}
